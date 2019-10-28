@@ -1,2 +1,6 @@
 .idea
 .history
+/koa/hello-koa/node_modules/
+/koa/hello-koa/package-lock.json
+/koa/nunjucks/node_modules/
+/koa/nunjucks/package-lock.json

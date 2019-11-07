@@ -1,5 +1,6 @@
 .idea
 .history
+.vscode
 /koa/hello-koa/node_modules/
 /koa/hello-koa/package-lock.json
 /koa/nunjucks/node_modules/
